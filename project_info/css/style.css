@@ -39,7 +39,7 @@ body {
 /* Container */
 .container {
     display: grid;
-    background-image: url("/Users/qifenghuang/Desktop/NEU/CS5610/qh2244.github.io/images/background.jpeg");
+    background-image: url("https://qh2244.github.io/images/background.jpeg");
     background-size: cover;
     background-position: center;
     grid-template-columns: 1fr 1fr 1fr;
@@ -120,7 +120,7 @@ a:hover{
     border-radius: 20px;
 }
 
-img[src="/Users/qifenghuang/Desktop/NEU/CS5610/qh2244.github.io/images/feng.png"] {
+img[src="https://qh2244.github.io/images/feng.png"] {
     width: 80px;
     height: auto;
 }
@@ -164,7 +164,7 @@ img[src="/Users/qifenghuang/Desktop/NEU/CS5610/qh2244.github.io/images/feng.png"
         font-size: 13px;
     }
 
-    img[src="/Users/qifenghuang/Desktop/NEU/CS5610/qh2244.github.io/images/feng.png"] {
+    img[src="https://qh2244.github.io/images/feng.png"] {
         width: 50px;
         height: auto;
     }

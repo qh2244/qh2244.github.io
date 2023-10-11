@@ -39,7 +39,7 @@ body {
 /* Container */
 .container {
     display: grid;
-    background-image: url("./images/background.jpeg");
+    background-image: url("https://qh2244.github.io/images/background.jpeg");
     background-size: cover;
     background-position: center;
     grid-template-columns: 1fr 1fr 1fr;
@@ -123,7 +123,7 @@ a:hover{
     padding: 20px;
 }
 
-img[src="./images/feng.png"] {
+img[src="https://qh2244.github.io/images/feng.png"] {
     width: 80px;
     height: auto;
 }
@@ -167,7 +167,7 @@ img[src="./images/feng.png"] {
         font-size: 13px;
     }
 
-    img[src="./images/feng.png"] {
+    img[src="https://qh2244.github.io/images/feng.png"] {
         width: 50px;
         height: auto;
     }
